@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MCDO\MCDO\bin\Debug\MCDO.exe.config
+C:\Users\user\source\repos\MCDO\MCDO\bin\Debug\MCDO.exe
+C:\Users\user\source\repos\MCDO\MCDO\bin\Debug\MCDO.pdb
+C:\Users\user\source\repos\MCDO\MCDO\bin\Debug\MCDO.xml
+C:\Users\user\source\repos\MCDO\MCDO\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.vbproj.AssemblyReference.cache
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.Form1.resources
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.Resources.resources
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.vbproj.CopyComplete
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.exe
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.xml
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.pdb
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.Form2.resources
+C:\Users\user\source\repos\MCDO\MCDO\obj\Debug\MCDO.Form3.resources
